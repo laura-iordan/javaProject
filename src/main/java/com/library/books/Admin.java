@@ -243,7 +243,7 @@ public class Admin extends javax.swing.JFrame {
     }//GEN-LAST:event_closeBtnMouseClicked
 
     private void saveBtnMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_saveBtnMouseClicked
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_saveBtnMouseClicked
 
     /**
